@@ -7,6 +7,6 @@
  Fri 10/26 | Building on the Web: HTML and CSS. Hands-on: SFTP into the Apache Server for newtFire. File directories and their association with web URLs. | Consult our Introduction to and HTML, and our Introduction to Cascading Stylesheets (CSS) as you work on the homework exercise: HTML/CSS Exercise 1. NOTE: Do not submit this assignment on Courseweb. Instead, submit this homework by using SFTP to post to our newtFire web server.
  
  Week 2 | In class | For next class  
- - | - | -   
+ ---- | ---- | ----   
  Mon 10/29 | HTML and CSS: Web browsers and display variations, The CSS Box Model and controlling layout with Flexbox: see tutorial, with newtFire examples: HTML: Open URL in oXygen: http://newtfire.org; CSS: Open URL in oXygen: http://newtfire.org/nfIndex.css; Hands on work together with HTML and CSS and posting to newtFire. | Consult Learn CSS Layout, Flexbox tutorial, and w3 Schools CSS Reference as you code. (Also, check out Paletton (or hunt for other color scheme generators on the web) to help think about choosing a balanced color scheme for your website. Experiment with writing CSS to control font, layout, color, backgrounds. HTML/CSS Exercise 2 (As with HTML Exercise 1, submit this homework by using FTP to post to our newtFire web server.)
  
