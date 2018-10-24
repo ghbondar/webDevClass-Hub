@@ -1,6 +1,7 @@
 # webDevClass-Hub
 ===========  
-Here is our new and revised schedule for this course: https://github.com/ghbondar/webDevClass-Hub/blob/master/docs/index.md  
+Here is our new and revised schedule for this course:  
+https://github.com/ghbondar/webDevClass-Hub/blob/master/docs/index.md  
 
 Welcome to the webDev Class Hub! This is a repository to help introduce and orient Pitt students to the GitHub collaboration environment.
 
