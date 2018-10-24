@@ -1,5 +1,5 @@
 # webDevClass-Hub
-===========  
+ 
 Here is our new and revised schedule for this course:  
 https://github.com/ghbondar/webDevClass-Hub/blob/master/docs/index.md  
 
