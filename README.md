@@ -1,6 +1,8 @@
 # webDevClass-Hub for CS 134
  
 Here is our new and revised schedule for this course:  
+Schedule: https://ghbondar.github.io/webDevClass-Hub/
+
 https://github.com/ghbondar/webDevClass-Hub/blob/master/docs/index.md  
 
 Welcome to the webDev Class Hub! This is a repository to help introduce and orient Pitt students to the GitHub collaboration environment.
