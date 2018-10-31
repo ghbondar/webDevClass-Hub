@@ -9,9 +9,9 @@
  Week 2 | In class | For next class  
  ---- | ---- | ----   
  Mon 10/29 | HTML and Intro to CSS: See our[Introduction to Cascading Style Sheets](http://dh.newtfire.org/explainCSS.html) (CSS), and [w3 Schools CSS Reference](http://www.w3schools.com/css/) as you code. (Also, check out [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) (or hunt for other color scheme generators on the web) to help think about choosing a balanced color scheme for your website. Experiment with writing CSS to control font, layout, color, backgrounds.  |[HTML and CSS Homework](http://dh.newtfire.org/HTMLExercise1.html): Improve the HTML of your index.html file and add CSS from an associated CSS-file. **No in-line CSS inside your HTML-file**  (As with the first HTML Homework, submit this homework by using FTP to post your updated HTML-file and associated CSS-file our newtFire web server.)
-  Wed 10/31 | Digital Studies Certificate:  
-  http://www.greensburg.pitt.edu/academics/info/digital-studies  
-  HTML and CSS:  
+  Wed 10/31 | Digital Studies Certificate: 
+  http://www.greensburg.pitt.edu/academics/info/digital-studies 
+  HTML and CSS: 
   Validate your HTML: https://validator.w3.org/  
   Validate your CSS: http://jigsaw.w3.org/css-validator/  
   [https://learn.shayhowe.com/html-css/building-your-first-web-page/](HTML and CSS tutorial) | HW-03: Improve your existing HTML and CSS: Add stying to new selectors besides the background. Use comments in both HTML and CSS to identify these changes. After uploading to webpage, check to see if your HTML and CSS are valid!
