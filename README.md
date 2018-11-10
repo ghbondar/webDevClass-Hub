@@ -24,8 +24,7 @@ Welcome to the webDev Class Hub! This is a repository to help introduce and orie
  
 
 
-Here is our new and revised schedule for this course:  
-Schedule: https://github.com/ghbondar/webDevClass-Hub/blob/master/docs/index.md  
+
 
 * In order for you to participate fully in this shared class space, I need to add you as a collaborator. Set up your own GitHub account and write to me to tell me how to find you. 
 
@@ -37,3 +36,6 @@ Schedule: https://github.com/ghbondar/webDevClass-Hub/blob/master/docs/index.md
 * **Always be sure to "sync"** your local folder to receive any changes pushed to this GitHub repository. At command line, that means, issue a **"git pull"** (or a **"git fetch"** and **"git merge"**) command to retrieve changes to the directories from the cloud before you begin working. Always sync your local directory with our cloud directory here on the web **when you begin work**, and **when you conclude work** at a local computer.
 
 * There are things we'll do together **only in the webpage view of GitHub:** See if you can find the "Issues" and "Wiki" areas by mousing over the icons on the top (in the new view) or the right-hand (old view) side of the GitHub page: "Issues" is the exclamation point inside the circle, and the "Wiki" pages will be under the icon for a book. We're using the "Issues" page to open conversations about questions, problems, things we need to discuss and fix and work on together. If we formulate a new method or policy we definitely want to follow, we'll post a Wiki page about it. The Issues and Wikis are searchable, and you write in them using [markdown syntax](https://guides.github.com/features/mastering-markdown/), which lets you easily and quickly format headings, lists, bold, italics, or share an image, etc. 
+
+Here is our new and revised schedule for this course:  
+Schedule: https://github.com/ghbondar/webDevClass-Hub/blob/master/docs/index.md  
