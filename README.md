@@ -16,7 +16,7 @@ Welcome to the webDev Class Hub! This is a repository to help introduce and orie
 Week 3 | In class | For next class  
  ---- | ---- | ----  
   Mon 11/05 | Semantic HTML: [Semantic HTML tutorial](https://learn.shayhowe.com/html-css/getting-to-know-html/)<br/>Example: Our [Intro to CSS file](http://dh.newtfire.org/explainCSS.html).<br/>Linking to other files. | Homework 5: Create a NEW HTML-file called resume.html that includes structure through: `<header>, <article>, <section>, <aside>, <footer>` as seen here: [Semantic HTML tutorial](https://learn.shayhowe.com/html-css/getting-to-know-html/) and link it to your Homepage (index.html). See the assignment on the Github Issue: https://github.com/ghbondar/webDevClass-Hub/issues/14
- Wed 11/07 | HTML and CSS: class and id attributes; Internal links; Inserting and styling images | HW06 See specific requirements for the assignment in the posted Github Issue.
+ Wed 11/07 | HTML and CSS: class and id attributes; Internal links; Inserting and styling images | HW06 See [specific requirements for the assignment in the posted Github Issue](https://github.com/ghbondar/webDevClass-Hub/issues/16).
  Fri 11/09 | HTML and CSS: Web browsers and display variations, The [CSS Box Model tutorial](https://internetingishard.com/html-and-css/css-box-model/#changing-box-behavior) |  Homework 7: Style the images and content of one of your web pages using the Box Model: See [detailed Homework 7 assignment in the Github Issue](https://github.com/ghbondar/webDevClass-Hub/issues/17).
  
 Week 4 | In class | For next class  
