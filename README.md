@@ -21,10 +21,8 @@ Week 3 | In class | For next class
  
 Week 4 | In class | For next class  
  ---- | ---- | ----  
-  Mon 11/12 | Controlling layout with Flexbox: see [tutorial](https://internetingishard.com/html-and-css/flexbox/), with newtFire examples: HTML: Open URL in oXygen: http://newtfire.org; CSS: Open URL in oXygen: http://newtfire.org/nfIndex.css. Hands on work together with HTML and CSS and posting to newtFire.  
-  XML that makes graphics: SVG (Scalable Vector Graphics). Drawing elements, and screen grid coordinates.
-[Introductory slideshow](https://www.slideshare.net/ebbondar/svg-81556046)
-Play with [w3Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp). | 
+  Mon 11/12 | Controlling layout with Flexbox: see [tutorial](https://internetingishard.com/html-and-css/flexbox/), with newtFire examples: HTML: Open URL in oXygen: http://newtfire.org; CSS: Open URL in oXygen: http://newtfire.org/nfIndex.css. Hands on work together with HTML and CSS and posting to newtFire. XML that makes graphics: SVG (Scalable Vector Graphics). Drawing elements, and screen grid coordinates. [Introductory slideshow](https://www.slideshare.net/ebbondar/svg-81556046) Play with [w3Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp). | Work through the [w3Schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp) to complete the SVG basic and SVG shapes pages. Filters, gradients, examples, and reference are optional.
+[SVG Exercise 1](http://dh.newtfire.org/SVGExercise1.html)
  
 
 
