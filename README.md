@@ -29,7 +29,7 @@ Week 4 | In class | For next class
  ---- | ---- | ---- 
  Mon 11/26 | 1) [Intro to Javascript](http://dh.obdurodon.org/javascript.xhtml); 2) [JavaScript Tutorial](https://www.w3schools.com/html/html_intro.asp) | HW11: [See Github Issue for details](https://github.com/ghbondar/webDevClass-Hub/issues/25)
  Wed 11/28 | [Intro to Javascript](http://dh.obdurodon.org/javascript.xhtml) | HW12: [External JavaScript Exercise 1](http://dh.newtfire.org/JavaScriptExercise1.html)
- Fri 11/30 | [Class Examples](https://github.com/ghbondar/webDevClass-Hub/tree/master/classExamples/JavaScript); [Toggling with JavaScript](http://dh.obdurodon.org/javascript/classListToggle.xhtml) | HW13: [External Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html)
+ Fri 11/30 | [Class Examples](https://github.com/ghbondar/webDevClass-Hub/tree/master/classExamples/JavaScript); [Toggling with JavaScript](http://dh.obdurodon.org/javascript/classListToggle.xhtml); [Another class example](http://pacific.obdurodon.org/InjuredIsland.html) | HW13: [External Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html)
 
 
 
