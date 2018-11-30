@@ -26,7 +26,9 @@ Week 4 | In class | For next class
   Fri 11/16 | [Server-sided Includes](http://dh.newtfire.org/SSI.html): 1) [DH Course Syllabus](http://dh.newtfire.org/CDA.html): A) [HTML for syllabus](https://github.com/ebeshero/newtFire-webDev/blob/master/courses/cda-course/CDA.html), B) [SSI code: top.html](https://github.com/ebeshero/newtFire-webDev/blob/master/courses/top.html) | Use SSI's to add standard formatting to two or more of your webpages. See assignment sheet on github for more details.
  
  Week 5| In class | For next class
- ---- | ---- | ----   
+ ---- | ---- | ---- 
+ Mon 11/26 | [Intro to Javascript](http://dh.obdurodon.org/javascript.xhtml) | HW11: [See Github Issue for details](https://github.com/ghbondar/webDevClass-Hub/issues/25)
+ Wed 11/28 | [Intro to Javascript](http://dh.obdurodon.org/javascript.xhtml) | HW12: [External JavaScript](http://dh.newtfire.org/JavaScriptExercise1.html_
  Fri 11/30 | [Class Examples](https://github.com/ghbondar/webDevClass-Hub/tree/master/classExamples/JavaScript); [Toggling with JavaScript](http://dh.obdurodon.org/javascript/classListToggle.xhtml) | HW13: [Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html)
 
 
