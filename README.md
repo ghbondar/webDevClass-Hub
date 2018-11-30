@@ -25,7 +25,9 @@ Week 4 | In class | For next class
   Wed 11/14 | [Inkscape](https://inkscape.org/): An editor for vector-graphics. Manipulating raster images using Adobe Photoshop: [Sample Image](https://github.com/ghbondar/webDevClass-Hub/blob/master/classExamples/2017pyramidsImage.JPG) | HW09: Take two or three tasteful pictures with your phone or camera and upload them to your computer. Using Adobe Photoshop, resize them to 1024x768 px. Display these pictures, and your SVG-image, inside [Flexboxes](https://internetingishard.com/html-and-css/flexbox/) on your Homepage (index.html) or a new page that is linked to your Homepage. See the [Github Issue for additional details about this assignment](https://github.com/ghbondar/webDevClass-Hub/issues/21).
   Fri 11/16 | [Server-sided Includes](http://dh.newtfire.org/SSI.html): 1) [DH Course Syllabus](http://dh.newtfire.org/CDA.html): A) [HTML for syllabus](https://github.com/ebeshero/newtFire-webDev/blob/master/courses/cda-course/CDA.html), B) [SSI code: top.html](https://github.com/ebeshero/newtFire-webDev/blob/master/courses/top.html) | Use SSI's to add standard formatting to two or more of your webpages. See assignment sheet on github for more details.
  
-
+ Week 5| In class | For next class
+ ---- | ---- | ----   
+ Fri 11/30 | [Class Examples](https://github.com/ghbondar/webDevClass-Hub/tree/master/classExamples/JavaScript); [Toggling with JavaScript](http://dh.obdurodon.org/javascript/classListToggle.xhtml) | HW13: [Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html)
 
 
 
