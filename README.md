@@ -33,7 +33,7 @@ Week 4 | In class | For next class
 
  Last Week| In class | For next class
  ---- | ---- | ---- 
- Mon 12/03 | Discuss [Proj Guidelines](https://github.com/ghbondar/webDevClass-Hub/issues/27); [Creative Commons licenses](https://creativecommons.org/share-your-work/) | Finish HW13: [External Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html); Work on [Final Course Projects](https://github.com/ghbondar/webDevClass-Hub/issues/27).
+ Mon 12/03 | Discuss [Proj Guidelines](https://github.com/ghbondar/webDevClass-Hub/issues/27) and [Creative Commons licenses](https://creativecommons.org/share-your-work/) | Finish HW13: [External Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html) and Work on [Final Course Projects](https://github.com/ghbondar/webDevClass-Hub/issues/27).
 
 * In order for you to participate fully in this shared class space, I need to add you as a collaborator. Set up your own GitHub account and write to me to tell me how to find you. 
 
