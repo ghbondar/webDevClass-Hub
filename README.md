@@ -31,7 +31,9 @@ Week 4 | In class | For next class
  Wed 11/28 | [Intro to Javascript](http://dh.obdurodon.org/javascript.xhtml) | HW12: [External JavaScript Exercise 1](http://dh.newtfire.org/JavaScriptExercise1.html)
  Fri 11/30 | [Class Examples](https://github.com/ghbondar/webDevClass-Hub/tree/master/classExamples/JavaScript); [Toggling with JavaScript](http://dh.obdurodon.org/javascript/classListToggle.xhtml); [Another class example](http://pacific.obdurodon.org/InjuredIsland.html) | HW13: [External Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html)
 
-
+ Last Week| In class | For next class
+ ---- | ---- | ---- 
+ Mon 12/03 | Discuss [Proj Guidelines](https://github.com/ghbondar/webDevClass-Hub/issues/27); [Creative Commons licenses](https://creativecommons.org/share-your-work/) | Finish HW13: [External Javascript Exercise 2](http://dh.newtfire.org/JavaScriptExercise2.html); Work on [Final Course Projects](https://github.com/ghbondar/webDevClass-Hub/issues/27).
 
 * In order for you to participate fully in this shared class space, I need to add you as a collaborator. Set up your own GitHub account and write to me to tell me how to find you. 
 
